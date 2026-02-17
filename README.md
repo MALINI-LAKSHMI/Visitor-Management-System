@@ -1,12 +1,38 @@
 # Visitor-Management-System
 
+## Project Description
 
-The Visitor Management System is a Java web application developed using JSP, Servlets, JDBC, and Apache Tomcat. 
-This project is used to store and manage visitor details in an organization. It allows the user to add visitor 
-information, view a particular visitor record, and view all visitor records from the database.
+This is a simple web-based Visitor Management System developed using JSP, Servlets, JDBC, and Oracle Database.
 
-The application uses JSP for the front end, Servlets for handling requests, and JDBC for database connectivity.
-This project helped me understand Java web application development and how to connect Java applications with a database.
+The main purpose of this project is to store and manage visitor details such as visitor name, purpose of visit, visit date, contact number, and remarks.
+
+### The system allows the user to:
+
+Add a new visitor record
+
+View a particular visitor record
+
+View all visitor records
+
+All the data is stored in the database and retrieved whenever required.
+
+## Technologies Used
+
+Java
+
+JSP
+
+Servlets
+
+JDBC
+
+Oracle Database
+
+Apache Tomcat Server
+
+Eclipse IDE
+
+HTML
 
 
 <img width="813" height="556" alt="Screenshot 2026-02-17 111714 - Copy" src="https://github.com/user-attachments/assets/36eb09a2-97c5-4981-9a8c-b4676edb9bec" />
